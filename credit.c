@@ -56,7 +56,7 @@ int get_credit_card_length(long credit_card_number)
 int checksum(long credit_card, int credit_card_length)
 {
     long cc_number = credit_card;
-    int doubled;
+    int doubled = 0;
     int added = 0;
     for (int i = 0; i < credit_card_length; i++) 
     {
@@ -80,6 +80,7 @@ int checksum(long credit_card, int credit_card_length)
         }
         cc_number = ((cc_number - last_digit) / 10);
     }
+
 
     return added + doubled;
 }
