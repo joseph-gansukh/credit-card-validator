@@ -18,7 +18,7 @@ To demonstrate this algorithm, let's take a look at an example of 40036000000000
 
   >For the sake of discussion, let’s first underline every other digit, starting with the number’s second-to-last digit:
   >
-  <u>4</u>0<u>0</u>3<u>6</u>0<u>0</u>0<u>0</u>0<u>0</u>0<u>0</u>0<u>1</u>4
+  > **4**0**0**3**6**0**0**0**0**0**0**0**0**0**1**4
   >
   > Okay, let’s multiply each of the underlined digits by 2:
   >
