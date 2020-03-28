@@ -16,9 +16,9 @@ Most cards use an this algorithm invented by Hans Peter Luhn of IBM. Using Luhn'
 
 To demonstrate this algorithm, let's take a look at an example of 4003600000000014.
 
-  >For the sake of discussion, let’s first underline every other digit, starting with the number’s second-to-last digit:
+  >For the sake of discussion, let’s first bold every other digit, starting with the number’s second-to-last digit:
   >
-  > **4**0**0**3**6**0**0**0**0**0**0**0**0**0**1**4
+  **4**0**0**3**6**0**0**0**0**0**0**0**0**0**1**4
   >
   > Okay, let’s multiply each of the underlined digits by 2:
   >
