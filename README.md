@@ -1,6 +1,6 @@
 # Credit Card Validator
 
-![credit-card](../img/../credit-card/img/cc.jpeg)
+![credit-card](img/cc.jpeg)
 
 Credit or debit cards are used all the time to pay for goods and services. On each card there is a long number which is stored in a database somewhere. When making a transaction, the creditor uses this number so they know whom to bill. 
 
