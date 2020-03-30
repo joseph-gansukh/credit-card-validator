@@ -1,5 +1,7 @@
 # Credit Card Validator
 
+![credit-card](../img/../credit-card/img/cc.jpeg)
+
 Credit or debit cards are used all the time to pay for goods and services. On each card there is a long number which is stored in a database somewhere. When making a transaction, the creditor uses this number so they know whom to bill. 
 
 In general, American Express uses 15-digit numbers which start with 34 or 37, MasterCard uses 16-digit numbers which start with 51, 52, 53, 54, or 55, and Visa uses 13 and 16-digit numbers which start with 4. Credit card numbers are unique in that they each have checksum built into them, a mathematical relationship between the numbers. This checksum enables computers and humans to detect whether the card is valid or not without having to query a database. Regardless, a database lookup is still necessary for more rigorous checks. 
