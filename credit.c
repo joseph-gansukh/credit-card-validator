@@ -48,7 +48,7 @@ int get_credit_card_length(long credit_card_number)
     } 
     while (credit_card_number);
 
-    // printf("length: %f\n", floor(log10(credit_card_number)) + 1);
+    printf("length: %f\n", floor(log10(credit_card_number)) + 1);
     return credit_card_length;
 }
 
