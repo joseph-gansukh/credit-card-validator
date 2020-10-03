@@ -73,7 +73,7 @@ Here are a [few card numbers](https://developer.paypal.com/docs/payflow/payflow-
 
 ***
 
-# How to run the programs?
+# How to run the program?
 
 1. Compile by running make credit or clang -o credit credit.c in terminal
 2. Run the program by running ./credit
